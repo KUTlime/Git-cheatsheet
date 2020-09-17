@@ -9,3 +9,7 @@
 
 ### Revert last commit (discart changes)
 `git reset --hard HEAD~1`
+
+## Links
+
+[Best Git cheatsheet I came across](https://github.com/arslanbilal/git-cheat-sheet)
