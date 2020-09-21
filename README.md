@@ -1,6 +1,12 @@
 # Git cheatsheet
 > My personal Git cheatsheet.
 
+## Editing
+
+### Edit last local commit message
+
+`git commit --amend --only -m 'A new message that will override the original message.'`
+
 ## Reverting
 
 ### Revert last commit (keep changes)
@@ -12,4 +18,5 @@
 
 ## Links
 
-[Best Git cheatsheet I came across](https://github.com/arslanbilal/git-cheat-sheet)
+1. [Best Git cheatsheet I came across](https://github.com/arslanbilal/git-cheat-sheet)
+2. [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
