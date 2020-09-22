@@ -16,7 +16,20 @@
 ### Revert last commit (discart changes)
 `git reset --hard HEAD~1`
 
+## How to write a good commit message
+
+* Separate subject from body with a blank line.
+* Limit the subject line to 50 characters.
+* Capitalize the subject line.
+* Do not end the subject line with a period.
+* Use the imperative mood in the subject line.
+* Wrap the body at 72 characters.
+* Use the body to explain what and why vs. how.
+
+Limits for 50/72 characters are soft limits. I personally don't like the latter limit because there is no technical reason for that. It's just derived from [IBM punch cards](https://en.wikipedia.org/wiki/Punched_card) which had 72+8 characters per line.
+
 ## Links
 
 1. [Best Git cheatsheet I came across](https://github.com/arslanbilal/git-cheat-sheet)
 2. [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+3. [How to Write a Git commit message](https://chris.beams.io/posts/git-commit/)
