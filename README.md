@@ -22,9 +22,11 @@
 * Limit the subject line to 50 characters.
 * Capitalize the subject line.
 * Do not end the subject line with a period.
-* Use the imperative mood in the subject line.
+* Use the imperative mood in the subject line, see below.
 * Wrap the body at 72 characters.
 * Use the body to explain what and why vs. how.
+
+An imperative mood is when you do not use past tense or similar. You basically fill up this template: *If applied, this commit will* **your subject line**.
 
 Limits for 50/72 characters are soft limits. I personally don't like the latter limit because there is no technical reason for that. It's just derived from [IBM punch cards](https://en.wikipedia.org/wiki/Punched_card) which had 72+8 characters per line.
 
