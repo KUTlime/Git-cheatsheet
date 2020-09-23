@@ -30,6 +30,8 @@ An imperative mood is when you do not use past tense or similar. You basically f
 
 Limits for 50/72 characters are soft limits. I personally don't like the latter limit because there is no technical reason for that. It's just derived from [IBM punch cards](https://en.wikipedia.org/wiki/Punched_card) which had 72+8 characters per line.
 
+If you can't fit into 50 characters for a subject line, devide changes into multiple commits. Same advice apply when you have a tendency to use *and* in your subject line.
+
 ## Links
 
 1. [Best Git cheatsheet I came across](https://github.com/arslanbilal/git-cheat-sheet)
