@@ -1,4 +1,5 @@
 # Git cheatsheet
+
 > My personal Git cheatsheet.
 
 ## Editing
@@ -13,7 +14,8 @@
 
 `git reset HEAD~1`
 
-### Revert last commit (discart changes)
+### Revert last commit (discard changes)
+
 `git reset --hard HEAD~1`
 
 ## How to write a good commit message
@@ -30,7 +32,7 @@ An imperative mood is when you do not use past tense or similar. You basically f
 
 Limits for 50/72 characters are soft limits. I personally don't like the latter limit because there is no technical reason for that. It's just derived from [IBM punch cards](https://en.wikipedia.org/wiki/Punched_card) which had 72+8 characters per line.
 
-If you can't fit into 50 characters for a subject line, devide changes into multiple commits. Same advice apply when you have a tendency to use *and* in your subject line.
+If you can't fit into 50 characters for a subject line, divide changes into multiple commits. Same advice apply when you have a tendency to use *and* in your subject line.
 
 ## Links
 
