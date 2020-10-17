@@ -34,6 +34,10 @@ Limits for 50/72 characters are soft limits. I personally don't like the latter 
 
 If you can't fit into 50 characters for a subject line, divide changes into multiple commits. Same advice apply when you have a tendency to use *and* in your subject line.
 
+## Git structure
+
+![Git structure](./assets/GitDataTransport.png)
+
 ## Links
 
 1. [Best Git cheatsheet I came across](https://github.com/arslanbilal/git-cheat-sheet)
