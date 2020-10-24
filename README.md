@@ -38,6 +38,32 @@ If you can't fit into 50 characters for a subject line, divide changes into mult
 
 ![Git structure](./assets/GitDataTransport.png)
 
+## Merge Strategies
+
+### Explicit Merge
+
+No fast forward.
+
+![Explicit merge](./assets/ExplicitMerge.gif)
+
+### Fast Forward Merge
+
+No new commit.
+
+![Explicit merge](./assets/FastForward.gif)
+
+### Rebase
+
+Maintains a linear history.
+
+![Explicit merge](./assets/Rebase.gif)
+
+### Squash
+
+No commit history and maintains a linear history.
+
+![Explicit merge](./assets/Squash.gif)
+
 ## Links
 
 1. [Best Git cheatsheet I came across](https://github.com/arslanbilal/git-cheat-sheet)
